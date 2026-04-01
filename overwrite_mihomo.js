@@ -1072,7 +1072,7 @@ function overwriteTunnel(params) {
         "strict-route": false,
         "route-exclude-address": [],
         "loopback-address": [
-            "10.7.0.1"
+            "10.6.0.1"
         ],
         mtu: 1500,
     };
